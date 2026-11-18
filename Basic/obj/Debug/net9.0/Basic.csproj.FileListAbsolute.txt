@@ -1,0 +1,15 @@
+C:\KDH_DEV\GameProgram\CSharpLearn\Basic\bin\Debug\net9.0\Basic.exe
+C:\KDH_DEV\GameProgram\CSharpLearn\Basic\bin\Debug\net9.0\Basic.deps.json
+C:\KDH_DEV\GameProgram\CSharpLearn\Basic\bin\Debug\net9.0\Basic.runtimeconfig.json
+C:\KDH_DEV\GameProgram\CSharpLearn\Basic\bin\Debug\net9.0\Basic.dll
+C:\KDH_DEV\GameProgram\CSharpLearn\Basic\bin\Debug\net9.0\Basic.pdb
+C:\KDH_DEV\GameProgram\CSharpLearn\Basic\obj\Debug\net9.0\Basic.GeneratedMSBuildEditorConfig.editorconfig
+C:\KDH_DEV\GameProgram\CSharpLearn\Basic\obj\Debug\net9.0\Basic.AssemblyInfoInputs.cache
+C:\KDH_DEV\GameProgram\CSharpLearn\Basic\obj\Debug\net9.0\Basic.AssemblyInfo.cs
+C:\KDH_DEV\GameProgram\CSharpLearn\Basic\obj\Debug\net9.0\Basic.csproj.CoreCompileInputs.cache
+C:\KDH_DEV\GameProgram\CSharpLearn\Basic\obj\Debug\net9.0\Basic.sourcelink.json
+C:\KDH_DEV\GameProgram\CSharpLearn\Basic\obj\Debug\net9.0\Basic.dll
+C:\KDH_DEV\GameProgram\CSharpLearn\Basic\obj\Debug\net9.0\refint\Basic.dll
+C:\KDH_DEV\GameProgram\CSharpLearn\Basic\obj\Debug\net9.0\Basic.pdb
+C:\KDH_DEV\GameProgram\CSharpLearn\Basic\obj\Debug\net9.0\Basic.genruntimeconfig.cache
+C:\KDH_DEV\GameProgram\CSharpLearn\Basic\obj\Debug\net9.0\ref\Basic.dll
