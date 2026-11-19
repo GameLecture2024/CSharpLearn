@@ -3,6 +3,26 @@
   "WorkspaceRootPath": "C:\\KDH_DEV\\GameProgram\\CSharpLearn\\Basic\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{14A3A7C1-558A-4A9A-99B1-68CEF6F3AEAE}|Basic.csproj|c:\\kdh_dev\\gameprogram\\csharplearn\\basic\\\uD14D\uC2A4\uD2B8rpg\uC804\uD22C.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14A3A7C1-558A-4A9A-99B1-68CEF6F3AEAE}|Basic.csproj|solutionrelative:\uD14D\uC2A4\uD2B8rpg\uC804\uD22C.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14A3A7C1-558A-4A9A-99B1-68CEF6F3AEAE}|Basic.csproj|c:\\kdh_dev\\gameprogram\\csharplearn\\basic\\\uC5C5\uB2E4\uC6B4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14A3A7C1-558A-4A9A-99B1-68CEF6F3AEAE}|Basic.csproj|solutionrelative:\uC5C5\uB2E4\uC6B4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14A3A7C1-558A-4A9A-99B1-68CEF6F3AEAE}|Basic.csproj|c:\\kdh_dev\\gameprogram\\csharplearn\\basic\\\uB370\uC774\uD130\uC758\uD750\uB984.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14A3A7C1-558A-4A9A-99B1-68CEF6F3AEAE}|Basic.csproj|solutionrelative:\uB370\uC774\uD130\uC758\uD750\uB984.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14A3A7C1-558A-4A9A-99B1-68CEF6F3AEAE}|Basic.csproj|c:\\kdh_dev\\gameprogram\\csharplearn\\basic\\\uAC00\uC704\uBC14\uC704\uBCF4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14A3A7C1-558A-4A9A-99B1-68CEF6F3AEAE}|Basic.csproj|solutionrelative:\uAC00\uC704\uBC14\uC704\uBCF4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14A3A7C1-558A-4A9A-99B1-68CEF6F3AEAE}|Basic.csproj|c:\\kdh_dev\\gameprogram\\csharplearn\\basic\\\uBC18\uBCF5\uBB38.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14A3A7C1-558A-4A9A-99B1-68CEF6F3AEAE}|Basic.csproj|solutionrelative:\uBC18\uBCF5\uBB38.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{14A3A7C1-558A-4A9A-99B1-68CEF6F3AEAE}|Basic.csproj|c:\\kdh_dev\\gameprogram\\csharplearn\\basic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{14A3A7C1-558A-4A9A-99B1-68CEF6F3AEAE}|Basic.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,12 +39,77 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "\uD14D\uC2A4\uD2B8RPG\uC804\uD22C.cs",
+              "DocumentMoniker": "C:\\KDH_DEV\\GameProgram\\CSharpLearn\\Basic\\\uD14D\uC2A4\uD2B8RPG\uC804\uD22C.cs",
+              "RelativeDocumentMoniker": "\uD14D\uC2A4\uD2B8RPG\uC804\uD22C.cs",
+              "ToolTip": "C:\\KDH_DEV\\GameProgram\\CSharpLearn\\Basic\\\uD14D\uC2A4\uD2B8RPG\uC804\uD22C.cs",
+              "RelativeToolTip": "\uD14D\uC2A4\uD2B8RPG\uC804\uD22C.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T12:30:17.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "\uC5C5\uB2E4\uC6B4.cs",
+              "DocumentMoniker": "C:\\KDH_DEV\\GameProgram\\CSharpLearn\\Basic\\\uC5C5\uB2E4\uC6B4.cs",
+              "RelativeDocumentMoniker": "\uC5C5\uB2E4\uC6B4.cs",
+              "ToolTip": "C:\\KDH_DEV\\GameProgram\\CSharpLearn\\Basic\\\uC5C5\uB2E4\uC6B4.cs",
+              "RelativeToolTip": "\uC5C5\uB2E4\uC6B4.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T12:25:27.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "\uBC18\uBCF5\uBB38.cs",
+              "DocumentMoniker": "C:\\KDH_DEV\\GameProgram\\CSharpLearn\\Basic\\\uBC18\uBCF5\uBB38.cs",
+              "RelativeDocumentMoniker": "\uBC18\uBCF5\uBB38.cs",
+              "ToolTip": "C:\\KDH_DEV\\GameProgram\\CSharpLearn\\Basic\\\uBC18\uBCF5\uBB38.cs",
+              "RelativeToolTip": "\uBC18\uBCF5\uBB38.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T12:04:06.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "\uAC00\uC704\uBC14\uC704\uBCF4.cs",
+              "DocumentMoniker": "C:\\KDH_DEV\\GameProgram\\CSharpLearn\\Basic\\\uAC00\uC704\uBC14\uC704\uBCF4.cs",
+              "RelativeDocumentMoniker": "\uAC00\uC704\uBC14\uC704\uBCF4.cs",
+              "ToolTip": "C:\\KDH_DEV\\GameProgram\\CSharpLearn\\Basic\\\uAC00\uC704\uBC14\uC704\uBCF4.cs",
+              "RelativeToolTip": "\uAC00\uC704\uBC14\uC704\uBCF4.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T11:49:58.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "\uB370\uC774\uD130\uC758\uD750\uB984.cs",
+              "DocumentMoniker": "C:\\KDH_DEV\\GameProgram\\CSharpLearn\\Basic\\\uB370\uC774\uD130\uC758\uD750\uB984.cs",
+              "RelativeDocumentMoniker": "\uB370\uC774\uD130\uC758\uD750\uB984.cs",
+              "ToolTip": "C:\\KDH_DEV\\GameProgram\\CSharpLearn\\Basic\\\uB370\uC774\uD130\uC758\uD750\uB984.cs",
+              "RelativeToolTip": "\uB370\uC774\uD130\uC758\uD750\uB984.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T11:12:26.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\KDH_DEV\\GameProgram\\CSharpLearn\\Basic\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\KDH_DEV\\GameProgram\\CSharpLearn\\Basic\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAA7wCoAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACIAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-18T11:12:03.713Z",
               "EditorCaption": ""
