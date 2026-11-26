@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\KDH_DEV\\GameProgram\\CSharpLearn\\ConsoleGameEngine\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D812D4A-958F-4CF2-98E6-F0CBF8E10E40}|ConsoleGame\\ConsoleGame.csproj|c:\\kdh_dev\\gameprogram\\csharplearn\\consolegameengine\\consolegame\\fortressgame-v2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D812D4A-958F-4CF2-98E6-F0CBF8E10E40}|ConsoleGame\\ConsoleGame.csproj|solutionrelative:consolegame\\fortressgame-v2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D812D4A-958F-4CF2-98E6-F0CBF8E10E40}|ConsoleGame\\ConsoleGame.csproj|c:\\kdh_dev\\gameprogram\\csharplearn\\consolegameengine\\consolegame\\tetrisgame (1).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D812D4A-958F-4CF2-98E6-F0CBF8E10E40}|ConsoleGame\\ConsoleGame.csproj|solutionrelative:consolegame\\tetrisgame (1).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D812D4A-958F-4CF2-98E6-F0CBF8E10E40}|ConsoleGame\\ConsoleGame.csproj|c:\\kdh_dev\\gameprogram\\csharplearn\\consolegameengine\\consolegame\\fortressgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D812D4A-958F-4CF2-98E6-F0CBF8E10E40}|ConsoleGame\\ConsoleGame.csproj|solutionrelative:consolegame\\fortressgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D812D4A-958F-4CF2-98E6-F0CBF8E10E40}|ConsoleGame\\ConsoleGame.csproj|c:\\kdh_dev\\gameprogram\\csharplearn\\consolegameengine\\consolegame\\basegameengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D812D4A-958F-4CF2-98E6-F0CBF8E10E40}|ConsoleGame\\ConsoleGame.csproj|solutionrelative:consolegame\\basegameengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D812D4A-958F-4CF2-98E6-F0CBF8E10E40}|ConsoleGame\\ConsoleGame.csproj|c:\\kdh_dev\\gameprogram\\csharplearn\\consolegameengine\\consolegame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D812D4A-958F-4CF2-98E6-F0CBF8E10E40}|ConsoleGame\\ConsoleGame.csproj|solutionrelative:consolegame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FortressGame-v2.cs",
+              "DocumentMoniker": "C:\\KDH_DEV\\GameProgram\\CSharpLearn\\ConsoleGameEngine\\ConsoleGame\\FortressGame-v2.cs",
+              "RelativeDocumentMoniker": "ConsoleGame\\FortressGame-v2.cs",
+              "ToolTip": "C:\\KDH_DEV\\GameProgram\\CSharpLearn\\ConsoleGameEngine\\ConsoleGame\\FortressGame-v2.cs",
+              "RelativeToolTip": "ConsoleGame\\FortressGame-v2.cs",
+              "ViewState": "AgIAAPIAAAAAAAAAAAAuwAsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-26T12:31:39.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FortressGame.cs",
+              "DocumentMoniker": "C:\\KDH_DEV\\GameProgram\\CSharpLearn\\ConsoleGameEngine\\ConsoleGame\\FortressGame.cs",
+              "RelativeDocumentMoniker": "ConsoleGame\\FortressGame.cs",
+              "ToolTip": "C:\\KDH_DEV\\GameProgram\\CSharpLearn\\ConsoleGameEngine\\ConsoleGame\\FortressGame.cs",
+              "RelativeToolTip": "ConsoleGame\\FortressGame.cs",
+              "ViewState": "AgIAAJgAAAAAAAAAAIAwwKcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-26T12:31:01.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BaseGameEngine.cs",
+              "DocumentMoniker": "C:\\KDH_DEV\\GameProgram\\CSharpLearn\\ConsoleGameEngine\\ConsoleGame\\BaseGameEngine.cs",
+              "RelativeDocumentMoniker": "ConsoleGame\\BaseGameEngine.cs",
+              "ToolTip": "C:\\KDH_DEV\\GameProgram\\CSharpLearn\\ConsoleGameEngine\\ConsoleGame\\BaseGameEngine.cs",
+              "RelativeToolTip": "ConsoleGame\\BaseGameEngine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-26T12:28:55.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TetrisGame (1).cs",
+              "DocumentMoniker": "C:\\KDH_DEV\\GameProgram\\CSharpLearn\\ConsoleGameEngine\\ConsoleGame\\TetrisGame (1).cs",
+              "RelativeDocumentMoniker": "ConsoleGame\\TetrisGame (1).cs",
+              "ToolTip": "C:\\KDH_DEV\\GameProgram\\CSharpLearn\\ConsoleGameEngine\\ConsoleGame\\TetrisGame (1).cs",
+              "RelativeToolTip": "ConsoleGame\\TetrisGame (1).cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-26T12:25:51.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\KDH_DEV\\GameProgram\\CSharpLearn\\ConsoleGameEngine\\ConsoleGame\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleGame\\Program.cs",
+              "ToolTip": "C:\\KDH_DEV\\GameProgram\\CSharpLearn\\ConsoleGameEngine\\ConsoleGame\\Program.cs",
+              "RelativeToolTip": "ConsoleGame\\Program.cs",
+              "ViewState": "AgIAAN0AAAAAAAAAAAAowNsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-26T12:04:52.157Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

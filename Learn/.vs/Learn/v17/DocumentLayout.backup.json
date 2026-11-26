@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\KDH_DEV\\GameProgram\\CSharpLearn\\Learn\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DF84A187-78F1-47EC-95C6-1499FCE0C77F}|Learn.csproj|c:\\kdh_dev\\gameprogram\\csharplearn\\learn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DF84A187-78F1-47EC-95C6-1499FCE0C77F}|Learn.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DF84A187-78F1-47EC-95C6-1499FCE0C77F}|Learn.csproj|c:\\kdh_dev\\gameprogram\\csharplearn\\learn\\\uB9CC\uB4E4\uBA74\uC11C\uD074\uB798\uC2A4\uBC30\uC6B0\uAE30.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF84A187-78F1-47EC-95C6-1499FCE0C77F}|Learn.csproj|solutionrelative:\uB9CC\uB4E4\uBA74\uC11C\uD074\uB798\uC2A4\uBC30\uC6B0\uAE30.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF84A187-78F1-47EC-95C6-1499FCE0C77F}|Learn.csproj|c:\\kdh_dev\\gameprogram\\csharplearn\\learn\\tetrisgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF84A187-78F1-47EC-95C6-1499FCE0C77F}|Learn.csproj|solutionrelative:tetrisgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF84A187-78F1-47EC-95C6-1499FCE0C77F}|Learn.csproj|c:\\kdh_dev\\gameprogram\\csharplearn\\learn\\learn.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DF84A187-78F1-47EC-95C6-1499FCE0C77F}|Learn.csproj|solutionrelative:learn.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\KDH_DEV\\GameProgram\\CSharpLearn\\Learn\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\KDH_DEV\\GameProgram\\CSharpLearn\\Learn\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Learn",
+              "DocumentMoniker": "C:\\KDH_DEV\\GameProgram\\CSharpLearn\\Learn\\Learn.csproj",
+              "RelativeDocumentMoniker": "Learn.csproj",
+              "ToolTip": "C:\\KDH_DEV\\GameProgram\\CSharpLearn\\Learn\\Learn.csproj",
+              "RelativeToolTip": "Learn.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-26T11:03:08.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TetrisGame.cs",
+              "DocumentMoniker": "C:\\KDH_DEV\\GameProgram\\CSharpLearn\\Learn\\TetrisGame.cs",
+              "RelativeDocumentMoniker": "TetrisGame.cs",
+              "ToolTip": "C:\\KDH_DEV\\GameProgram\\CSharpLearn\\Learn\\TetrisGame.cs",
+              "RelativeToolTip": "TetrisGame.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-25T11:46:34.568Z",
+              "WhenOpened": "2026-11-26T11:26:53.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\uB9CC\uB4E4\uBA74\uC11C\uD074\uB798\uC2A4\uBC30\uC6B0\uAE30.cs",
+              "DocumentMoniker": "C:\\KDH_DEV\\GameProgram\\CSharpLearn\\Learn\\\uB9CC\uB4E4\uBA74\uC11C\uD074\uB798\uC2A4\uBC30\uC6B0\uAE30.cs",
+              "RelativeDocumentMoniker": "\uB9CC\uB4E4\uBA74\uC11C\uD074\uB798\uC2A4\uBC30\uC6B0\uAE30.cs",
+              "ToolTip": "C:\\KDH_DEV\\GameProgram\\CSharpLearn\\Learn\\\uB9CC\uB4E4\uBA74\uC11C\uD074\uB798\uC2A4\uBC30\uC6B0\uAE30.cs",
+              "RelativeToolTip": "\uB9CC\uB4E4\uBA74\uC11C\uD074\uB798\uC2A4\uBC30\uC6B0\uAE30.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-26T11:02:13.648Z",
               "EditorCaption": ""
             }
           ]
